@@ -20,7 +20,7 @@ Exemples d'imatges per practicar PAM individualment i per practicar autnticació
    També permet practicar *pam_mount.so* per muntar unitats de *tmpfs* o *NFS* als usuaris.
 
 ``` 
-docker run --rm --name pam.edt.org -h pam.edt.prg --net 2hisx -it edtasixm06/pam21:base
+docker run --rm --name pam.edt.org -h pam.edt.prg --net 2hisx -it edtasixm06/pam22:base
 
 ```
 
